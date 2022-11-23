@@ -1,0 +1,92 @@
+/* .logo{
+    width: 20%;
+    height: 40%;
+} */
+.hover:hover{
+    border: solid white 1px;
+}
+.select{
+    /* width: 100%; */
+    /* padding-top: 2%; */
+    /* padding-bottom: 30.7%; */
+    /* padding-left: 50px; */
+}
+/* select{
+    padding-top: 2%;
+    padding-bottom: 28%;
+    padding-left: 45px;
+    width: 100%;
+    font-size: 16px;
+} */
+/* .SearchBoxDiv { */
+    input[type="text"]{
+    /* padding-top: 30%;
+    padding: 20px 3px;
+    padding-left: 85%;
+    width: 80%;
+    height: 15%; */
+  }
+  
+  /* .SearchBoxDiv{
+    margin-bottom: 40%;
+    background-color: red;
+    padding-bottom: 5%;
+  } */
+  .logoDiv{
+    margin-top: 5%;
+    width: 10%;
+  }
+  .SearchLogo{
+    /* padding-left: 3%; */
+    width: 100%;
+    margin-bottom: 15%;
+    padding-left: 178%;
+  }
+.Navbar{
+    /* padding-left: 1%;
+    background-color: #131921; */
+}
+/* a{
+    padding-left: 1%;
+} */
+/* .flex{
+    display: flex;
+} */
+li{
+    display: inline-block;   
+}
+.NavbarLink{
+    padding-left: 17%;
+}
+ul{
+    display: flex;
+}
+.NavDiv{
+    background-color: #131921;
+    padding: 1%;
+}
+.box {
+    width: 120px;
+    height: 30px;
+    border: 1px solid #999;
+    font-size: 22px;
+    border-style: none;
+    color: #1c87c9;
+    /* background-color: #eee; */
+    /* border-radius: 5px; */
+    margin-top: -25%;
+    padding-top: 5%;
+    padding-bottom: 12%;
+    text-align: center;
+  }
+  option{
+    background-color: black;
+    padding-bottom: 6%;
+  }
+  .DropdownDiv{
+    padding-top: 25%;
+    background-color: #eee;
+  }
+  img{
+    /* margin-top: -4%; */
+  }

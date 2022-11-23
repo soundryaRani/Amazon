@@ -1,0 +1,74 @@
+.NavDiv{
+    display: flex;
+    padding-top: 1%;
+    padding-left: 1%;
+    /* padding-bottom: 0.1%; */
+    background-color: #131921;
+}
+.flex{
+    display: flex;
+}
+.Navdiv1{
+    margin-right: 2%;
+    /* width: 100%; */
+}
+.SearchBoxDiv{
+    /* width: 80%;
+    padding-top: 2%; */
+}
+.Navdiv2{
+    margin-left: 20%;
+}
+.SearchBar{
+    margin-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 60%;
+}
+.select{
+    margin-bottom: 5%;
+    padding: 2%;
+    background-color: #f3f3f3;
+    
+}
+.select1{
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.navlink{
+    margin-left: 5%;
+}
+.navlink:hover{
+    border: solid white 1px;
+}
+.searchlogodiv{
+    /* width: 20%; */
+    /* margin-left: 100%; */
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+/* SECOND Navbar styling */
+.navRow2{
+    background-color: #232f3e;
+    padding-top: 0.3%;
+    
+}
+ul{
+    margin-top: 1%;
+    /* display: flex; */
+    padding-bottom: 1%;
+}
+li{
+    display: inline;
+    color: white;
+    margin-left: 3%;
+}
+li:hover{
+    cursor: pointer;
+    
+}
+.NavRow2lastLink{
+    margin-left: 45%;
+}
